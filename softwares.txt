@@ -1,0 +1,34 @@
+--------------------------------------------------------------- 
+NB::: If you install linux and team viewer an expert from our team will help you remotely--- Kindly install the two and contact our team.
+ Contacts
+   *** Peter mwenda - 0718953974
+   *** Dennis Mutegi - 0726006531
+
+ - Operating system --- Linux preffered.
+
+ - Database server ---- postgresql
+             Commands
+                        sudo apt-get update
+                        sudo apt-get install postgresql postgresql-contrib
+             Link
+                        https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
+
+
+ - Repository manager ---- Bitbucket account
+                      ---- Github accout
+                      ---- Git
+                             Command ---- sudo apt-get install git-all
+
+- Application server ---- Preferred Jboss wildfly --Tomcat,glassfish or web logic are also ok.
+                    jboss page ---- http://wildfly.org/downloads/ download the .tar.gz file
+
+- Dependency management ---- Ant -- download page http://ant.apache.org/bindownload.cgi 
+
+-  Editors --- Eclipse
+           --- Sublime text.
+
+- Collaboration - Team viewer
+                - Ngrok
+
+- Libraries - Jdks - 1.8
+            - Third party jars ---to be shared with you
